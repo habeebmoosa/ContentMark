@@ -1,7 +1,5 @@
 # ContentMark
 
-![ContentMark Logo](https://placeholder.svg?height=200&width=600)
-
 ContentMark is an AI-powered social media content generation platform that helps users create engaging, platform-optimized posts for LinkedIn, Twitter, and Reddit. Built with Next.js, Supabase, and the Vercel AI SDK, ContentMark streamlines the content creation process for social media managers, marketers, and content creators.
 
 ## Features
